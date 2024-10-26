@@ -1,0 +1,15 @@
+gradio
+numpy
+transformers
+librosa
+soundfile
+tqdm
+soundfile
+googletrans
+openai-whisper
+deep_translator
+nltk
+ffmpeg-python
+requests
+anthropic
+httpx
